@@ -18,6 +18,7 @@
 ## Copilarlo web :
 > pudes usar un tempel para usar el codigo en la nube mediante web : https://replit.com/@StrAva1/OsintWebBsz
 <br></br>
-> Como clonar el codigo en la nube desde tu navegador ve el video en este link : <
+> Como clonar el codigo en la nube desde tu navegador ve el video en este link : 
+## Fotos del programa corriendo :
 ![image](https://github.com/AvastrOficial/DoxWebBsz/assets/91764815/86505fed-7fe3-4362-b43b-af1065dadb30)
 

@@ -4,11 +4,16 @@
 ## Intalacion :
 
 > pkg update && pkg upgrade -y
-pkg install git bash -y
-git clone https://github.com/AvastrOficial/OsintWebBsz.git
-cd OsintWebBsz
-chmod +x main.sh
-./main.sh <
+ <br></br>
+> pkg install git bash -y
+ <br></br>
+> git clone https://github.com/AvastrOficial/OsintWebBsz.git
+<br></br>
+> cd OsintWebBsz
+ <br></br>
+> chmod +x main.sh
+ <br></br>
+> ./main.sh 
 <br></br>
 
 ![image](https://github.com/AvastrOficial/DoxWebBsz/assets/91764815/86505fed-7fe3-4362-b43b-af1065dadb30)

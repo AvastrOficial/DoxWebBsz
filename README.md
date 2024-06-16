@@ -3,6 +3,6 @@
 <br></br>
 ### Intalacion :
 > 
-chmod 711 DoxWeb.sh
+chmod 711 OsintWebBsz.sh
 ![image](https://github.com/AvastrOficial/DoxWebBsz/assets/91764815/86505fed-7fe3-4362-b43b-af1065dadb30)
 

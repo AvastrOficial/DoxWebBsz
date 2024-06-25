@@ -11,9 +11,9 @@
 <br></br>
 > cd OsintWebBsz
  <br></br>
-> chmod +x main.sh
+> chmod +x OsintWebBsz.sh
  <br></br>
-> ./main.sh 
+> ./OsintWebBsz.sh 
 <br></br>
 ## Copilarlo web :
 > pudes usar un tempel para usar el codigo en la nube mediante web : https://replit.com/@StrAva1/OsintWebBsz
